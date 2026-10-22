@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Biblioteca.Consola/Biblioteca.Consola.csproj" />
+  <Project Path="Biblioteca.Datos/Biblioteca.Datos.csproj" />
+  <Project Path="Biblioteca.Entidades/Biblioteca.Entidades.csproj" />
+</Solution>

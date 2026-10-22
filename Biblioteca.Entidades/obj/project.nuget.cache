@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcm/xa/3SKI=",
+  "success": true,
+  "projectFilePath": "C:\\Yo\\Cursos\\C#\\Modulo 2\\SistemaTiendaCapa\\SistemaBiblioteca\\Biblioteca.Entidades\\Biblioteca.Entidades.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\system.security.cryptography.pkcs\\10.0.13\\system.security.cryptography.pkcs.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
